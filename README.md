@@ -14,6 +14,8 @@ Solving one LeetCode problem a day for 50 days in Java.
   4     Check if the Sentence Is Pangram                      [PangramCheck.java](./Day4/PangramCheck.java)  
   5     How Many Numbers Are Smaller Than the Current Number  [SmallerNumbers.java](./Day5/SmallerNumbers.java) 
   6     Kids With the Greatest Number of Candies              [GreatestCandies.java](./Day6/GreatestCandies.java) 
+  7     Goal Parser Interpretation                            [GoalParser.java](./Day7/GoalParser.java) 
+
 
 
 
