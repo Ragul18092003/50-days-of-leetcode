@@ -15,6 +15,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 5   | How Many Numbers Are Smaller Than the Current Number | [SmallerNumbers.java](./Day5/SmallerNumbers.java)   |
 | 6   | Kids With the Greatest Number of Candies          | [GreatestCandies.java](./Day6/GreatestCandies.java)   |
 | 7   | Goal Parser Interpretation                        | [GoalParser.java](./Day7/GoalParser.java)             |
+| 8   | Defanging an IP Address                          | [DefangIP.java](./Day8/DefangIP.java)               |
+
 
 
 
