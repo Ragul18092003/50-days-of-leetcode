@@ -16,7 +16,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 6   | Kids With the Greatest Number of Candies          | [GreatestCandies.java](./Day6/GreatestCandies.java)   |
 | 7   | Goal Parser Interpretation                        | [GoalParser.java](./Day7/GoalParser.java)             |
 | 8   | Defanging an IP Address                          | [DefangIP.java](./Day8/DefangIP.java)               |
-| 9   | Maximum Product of Two Elements in an Array | [MaxProductOfTwo.java](./Day9/MaxProductOfTwo.java) |
+| 9   | 1. Max Product of Two Elements<br>2. Steps to Reduce Number to Zero | [MaxProductOfTwo.java](./Day9/MaxProductOfTwo.java), [ReduceToZero.java](./Day9/ReduceToZero.java) |
+
 
 
 
