@@ -18,6 +18,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 8   | Defanging an IP Address                          | [DefangIP.java](./Day8/DefangIP.java)               |
 | 9   | 1. Max Product of Two Elements<br>2. Steps to Reduce Number to Zero | [MaxProductOfTwo.java](./Day9/MaxProductOfTwo.java), [ReduceToZero.java](./Day9/ReduceToZero.java) |
 | 10  | 1. Create Target Array in the Given Order<br>2. Subtract the Product and Sum of Digits of an Integer | [CreateTargetArray.java](./Day10/CreateTargetArray.java), [ProductMinusSum.java](./Day10/ProductMinusSum.java) |
+| 11  | Find Numbers with Even Number of Digits | [EvenDigitCount.java](./Day11/EvenDigitCount.java) |
+
 
 
 
