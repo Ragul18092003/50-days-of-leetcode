@@ -19,6 +19,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 9   | 1. Max Product of Two Elements<br>2. Steps to Reduce Number to Zero | [MaxProductOfTwo.java](./Day9/MaxProductOfTwo.java), [ReduceToZero.java](./Day9/ReduceToZero.java) |
 | 10  | 1. Create Target Array in the Given Order<br>2. Subtract the Product and Sum of Digits of an Integer | [CreateTargetArray.java](./Day10/CreateTargetArray.java), [ProductMinusSum.java](./Day10/ProductMinusSum.java) |
 | 11  | Find Numbers with Even Number of Digits | [EvenDigitCount.java](./Day11/EvenDigitCount.java) |
+| 12  | 1. Maximum 69 Number<br>2. Left and Right Sum Differences | [Maximum69.java](./Day12/Maximum69.java), [LeftRightDifference.java](./Day12/LeftRightDifference.java) |
+
 
 
 
