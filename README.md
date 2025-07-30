@@ -21,6 +21,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 11  | Find Numbers with Even Number of Digits | [EvenDigitCount.java](./Day11/EvenDigitCount.java) |
 | 12  | 1. Maximum 69 Number<br>2. Left and Right Sum Differences | [Maximum69.java](./Day12/Maximum69.java), [LeftRightDifference.java](./Day12/LeftRightDifference.java) |
 | 13  | 1. Cells with Odd Values in a Matrix<br>2. Add Digits | [OddCellsMatrix.java](./Day13/OddCellsMatrix.java), [AddDigits.java](./Day13/AddDigits.java) |
+| 14  | Find Pivot Index | [PivotIndex.java](./Day14/PivotIndex.java) |
+
 
 
 
