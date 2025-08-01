@@ -23,6 +23,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 13  | 1. Cells with Odd Values in a Matrix<br>2. Add Digits | [OddCellsMatrix.java](./Day13/OddCellsMatrix.java), [AddDigits.java](./Day13/AddDigits.java) |
 | 14  | Find Pivot Index | [PivotIndex.java](./Day14/PivotIndex.java) |
 | 15  | Sort Array by Parity | [SortByParity.java](./Day15/SortByParity.java) |
+| 16  | Count Negative Numbers in a Sorted Matrix | [CountNegatives.java](./Day16/CountNegatives.java) |
+
 
 
 
