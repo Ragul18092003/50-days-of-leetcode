@@ -24,6 +24,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 14  | Find Pivot Index | [PivotIndex.java](./Day14/PivotIndex.java) |
 | 15  | Sort Array by Parity | [SortByParity.java](./Day15/SortByParity.java) |
 | 16  | Count Negative Numbers in a Sorted Matrix | [CountNegatives.java](./Day16/CountNegatives.java) |
+| 17  | String Matching in an Array | [StringMatching.java](./Day17/StringMatching.java) |
+
 
 
 
