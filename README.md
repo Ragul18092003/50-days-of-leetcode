@@ -26,6 +26,8 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 16  | Count Negative Numbers in a Sorted Matrix | [CountNegatives.java](./Day16/CountNegatives.java) |
 | 17  | String Matching in an Array | [StringMatching.java](./Day17/StringMatching.java) |
 | 18  | Count Prefixes of a Given String | [PrefixCount.java](./Day18/PrefixCount.java) |
+| 19  | Spiral Matrix | [SpiralMatrix.java](./Day19/SpiralMatrix.java) |
+
 
 
 
