@@ -28,6 +28,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 18  | Count Prefixes of a Given String | [PrefixCount.java](./Day18/PrefixCount.java) |
 | 19  | Spiral Matrix | [SpiralMatrix.java](./Day19/SpiralMatrix.java) |
 | 20  | Number of Strings That Appear as Substrings in Word | [CountSubstrings.java](./Day20/CountSubstrings.java) |
+| 21  | Check Whether Two Strings Are Almost Equivalent | [AlmostEquivalent.java](./Day21/AlmostEquivalent.java) |
 
 
 
