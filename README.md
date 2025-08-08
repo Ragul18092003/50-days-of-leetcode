@@ -30,6 +30,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 20  | Number of Strings That Appear as Substrings in Word | [CountSubstrings.java](./Day20/CountSubstrings.java) |
 | 21  | Check Whether Two Strings Are Almost Equivalent | [AlmostEquivalent.java](./Day21/AlmostEquivalent.java) |
 | 22  | Check if All Characters Have Equal Number of Occurrences | [EqualCharOccurrences.java](./Day22/EqualCharOccurrences.java) |
+| 23  | Detect Capital | [DetectCapital.java](./Day23/DetectCapital.java) |
 
 
 
