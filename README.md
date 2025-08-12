@@ -34,6 +34,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 24  | Reverse Words in a String III | [ReverseWordsIII.java](./Day24/ReverseWordsIII.java) |
 | 25  | Product of Array Except Self | [ProductExceptSelf.java](./Day25/ProductExceptSelf.java) |
 | 26  | Check if All A's Appear Before All B's | [CheckABOrder.java](./Day26/CheckABOrder.java) |
+| 27  | Remove Element | [RemoveElement.java](./Day27/RemoveElement.java) |
 
 
 
