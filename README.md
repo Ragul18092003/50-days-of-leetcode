@@ -35,6 +35,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 25  | Product of Array Except Self | [ProductExceptSelf.java](./Day25/ProductExceptSelf.java) |
 | 26  | Check if All A's Appear Before All B's | [CheckABOrder.java](./Day26/CheckABOrder.java) |
 | 27  | Remove Element | [RemoveElement.java](./Day27/RemoveElement.java) |
+| 28  | Available Captures for Rook | [AvailableCaptures.java](./Day28/AvailableCaptures.java) |
 
 
 
