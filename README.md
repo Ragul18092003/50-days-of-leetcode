@@ -38,6 +38,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 28  | Available Captures for Rook | [AvailableCaptures.java](./Day28/AvailableCaptures.java) |
 | 29  | Count Good Triplets | [CountGoodTriplets.java](./Day29/CountGoodTriplets.java) |
 | 30  | Minimum Index Sum of Two Lists | [MinIndexSumLists.java](./Day30/MinIndexSumLists.java) |
+| 31  | First Missing Positive | [FirstMissingPositive.java](./Day31/FirstMissingPositive.java) |
 
 
 
