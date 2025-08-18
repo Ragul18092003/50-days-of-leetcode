@@ -40,7 +40,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 30  | Minimum Index Sum of Two Lists | [MinIndexSumLists.java](./Day30/MinIndexSumLists.java) |
 | 31  | First Missing Positive | [FirstMissingPositive.java](./Day31/FirstMissingPositive.java) |
 | 32  | Merge Sorted Array | [MergeSortedArray.java](./Day32/MergeSortedArray.java) |
-
+| 33  | Excel Sheet Column Number | [ExcelSheetColumnNumber.java](./Day33/ExcelSheetColumnNumber.java) |
 
 
 
