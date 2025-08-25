@@ -46,6 +46,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 37  | Reverse Words in a String | [ReverseWords.java](./Day37/ReverseWords.java) |
 | 38  | Sort Colors | [SortColors.java](./Day38/SortColors.java) |
 | 39  | Valid Palindrome | [ValidPalindrome.java](./Day39/ValidPalindrome.java) |
+| 40  | Max Consecutive Ones | [MaxConsecutiveOnes.java](./Day40/MaxConsecutiveOnes.java) |
 
 
 
