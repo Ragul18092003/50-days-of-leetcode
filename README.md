@@ -47,6 +47,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 38  | Sort Colors | [SortColors.java](./Day38/SortColors.java) |
 | 39  | Valid Palindrome | [ValidPalindrome.java](./Day39/ValidPalindrome.java) |
 | 40  | Max Consecutive Ones | [MaxConsecutiveOnes.java](./Day40/MaxConsecutiveOnes.java) |
+| 41  | Median of Two Sorted Arrays | [MedianOfTwoSortedArrays.java](./Day41/MedianOfTwoSortedArrays.java) |
 
 
 
