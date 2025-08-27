@@ -48,6 +48,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 39  | Valid Palindrome | [ValidPalindrome.java](./Day39/ValidPalindrome.java) |
 | 40  | Max Consecutive Ones | [MaxConsecutiveOnes.java](./Day40/MaxConsecutiveOnes.java) |
 | 41  | Median of Two Sorted Arrays | [MedianOfTwoSortedArrays.java](./Day41/MedianOfTwoSortedArrays.java) |
+| 42  | Happy Number | [HappyNumber.java](./Day42/HappyNumber.java) |
 
 
 
