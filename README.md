@@ -50,6 +50,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 41  | Median of Two Sorted Arrays | [MedianOfTwoSortedArrays.java](./Day41/MedianOfTwoSortedArrays.java) |
 | 42  | Happy Number | [HappyNumber.java](./Day42/HappyNumber.java) |
 | 43  | Fruits Into Baskets II | [FruitsIntoBasketsII.java](./Day43/FruitsIntoBasketsII.java) |
+| 44  | Find Peak Element | [FindPeakElement.java](./Day44/FindPeakElement.java) |
 
 
 
