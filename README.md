@@ -54,6 +54,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 45  | Set Matrix Zeroes | [SetMatrixZeroes.java](./Day45/SetMatrixZeroes.java) |
 | 46  | Single Number II | [SingleNumberII.java](./Day46/SingleNumberII.java) |
 | 47  | Unique Number of Occurrences | [UniqueNumberOfOccurrences.java](./Day47/UniqueNumberOfOccurrences.java) |
+| 48  | Sum of Unique Elements | [SumOfUniqueElements.java](./Day48/SumOfUniqueElements.java) |
 
 
 
