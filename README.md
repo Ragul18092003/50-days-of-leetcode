@@ -56,6 +56,7 @@ Solving one LeetCode problem a day for 50 days in Java.
 | 47  | Unique Number of Occurrences | [UniqueNumberOfOccurrences.java](./Day47/UniqueNumberOfOccurrences.java) |
 | 48  | Sum of Unique Elements | [SumOfUniqueElements.java](./Day48/SumOfUniqueElements.java) |
 | 49  | Intersection of Two Arrays II | [IntersectionOfTwoArraysII.java](./Day49/IntersectionOfTwoArraysII.java) |
+| 50  | Find Closest Person | [FindClosestPerson.java](./Day50/FindClosestPerson.java) |
 
 
 
